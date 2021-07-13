@@ -1,0 +1,29 @@
+.offer {
+  background: black;
+  margin-top: 50px;
+}
+.offer .row {
+  width: 90%;
+  margin: auto;
+  padding: 30px;
+}
+.offer .row img {
+  width: 100%;
+}
+.offer h3 {
+  color: white;
+}
+.offer h1 {
+  color: white;
+}
+.offer .col-lg-6 p {
+  color: white;
+  font-size: 20px;
+}
+.offer .btn-offer {
+  background: white;
+  color: black;
+}
+.offer button:hover {
+  color: white;
+}

@@ -1,0 +1,37 @@
+.pro_details .row {
+  width: 100%;
+  margin: auto;
+}
+.mySwiper {
+  width: 420px;
+  height: 450px;
+}
+.pro_details .pro_title {
+  color: black;
+}
+.pro_details .pro_dis {
+  color: black;
+  font-size: 15px;
+  margin-top: -20px;
+  margin-left: 5px;
+  color: green;
+}
+.pro_details .pro_price {
+  color: black;
+  font-size: 30px;
+}
+
+.pro_details .btn {
+  background-color: black;
+  color: white;
+  margin: 10px;
+}
+.pro_details .product_slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pro_details .product_slider img {
+  width: 50%;
+  margin: auto;
+}
