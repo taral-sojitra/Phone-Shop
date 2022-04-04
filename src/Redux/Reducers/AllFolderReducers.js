@@ -15,6 +15,7 @@ export const initialState = {
     Compare: []
 
 }
+    
 
 export const defaultReducer = (state = initialState, action) => {
     switch (action.type) {
